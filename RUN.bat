@@ -1,0 +1,2 @@
+python ./ScoreKeeper.py %*
+pause
