@@ -1,7 +1,7 @@
 {
-    username: "andtheoscargoesto",
-    updateFreq: 20.0,
-    startScore: [23,27,0],
-    templateText: "Wins: {win} Losses: {loss} Draws: {draw}",
-    statsKey: "chess_blitz"
+    "username": "andtheoscargoesto",
+    "updateFreq": 20.0,
+    "startScore": [23,27,0],
+    "templateText": "Wins: {win} Losses: {loss} Draws: {draw}",
+    "statsKey": "chess_blitz"
 }
