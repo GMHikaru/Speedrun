@@ -10,7 +10,7 @@
 UpdateFreq = 10.0
 
 # Arguments json
-GitUrl = "https://raw.githubusercontent.com/GMHikaru/Speedrun/main/Scorekeeper.json"
+GitUrl = "https://raw.githubusercontent.com/GMHikaru/Speedrun/main/ScorekeeperSettings.json"
 
 # Path for the output file (default is same place as the script file)
 Destination = 'chessScore.txt'
